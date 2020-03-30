@@ -1,2 +1,6 @@
-# c-
-对c++的学习记录
+  #include<iostream>
+  using namespace std
+  int main()
+  {
+  cout<<"Hello world!"<<endl;
+  }
